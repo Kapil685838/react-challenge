@@ -1,8 +1,7 @@
 # React Challenge
 
 [React legacy documentation](https://legacy.reactjs.org/docs/getting-started.html)
-
-#### Main Concepts
+### Main Concepts
 - [ ] Hello World
 - [ ] Introducing JSX
 - [ ] Rendering Elements
@@ -16,7 +15,7 @@
 - [ ] Composition vs Inheritance
 - [ ] Thinking In React
 
-#### Advanced Guides
+### Advanced Guides
 - [ ] Accessibility
 - [ ] Code-Splitting
 - [ ] Context
@@ -62,7 +61,7 @@
 - [ ] Uncontrolled Components
 - [ ] Web Components
 
-#### API Reference
+### API Reference
 - [ ] React
 - [ ] React.Component
 - [ ] ReactDOM
@@ -86,7 +85,7 @@
 - [ ] JS Environment Requirements
 - [ ] Glossary
 
-#### HOOKS
+### HOOKS
 - [ ] Introducing Hooks
 - [ ] Hooks at a Glance
 - [ ] Using the State Hook
@@ -104,7 +103,7 @@
 - [ ] Hooks API Reference
 - [ ] Hooks FAQ
 
-#### Testing
+### Testing
 - [ ] Testing Overview
 - [ ] Testing Recipes
 - [ ] Testing Environments
@@ -112,7 +111,7 @@
 - [ ] Testing Recipes
 - [ ] Testing Environments
 
-#### Contributing
+### Contributing
 - [ ] How to Contribute
 - [ ] Codebase Overview
 - [ ] Implementation Notes
@@ -122,7 +121,7 @@
 - [ ] Implementation Notes
 - [ ] Design Principles
 
-#### FAQs
+### FAQs
 - [ ] AJAX and APIs
 - [ ] Babel, JSX, and Build Steps
 - [ ] Passing Functions to Components
@@ -141,19 +140,18 @@
 - [ ] Virtual DOM and Internals
 
 [React dev documentation](https://react.dev/learn)
-
-#### Quick Start
+### Quick Start
 - [ ] Tutorial: Tic-Tac-Toe
 - [ ] Thinking in React
 
-#### Installation
+### Installation
 - [ ] Start a New React Project
 - [ ] Add React to an Existing Project
 - [ ] Editor Setup
 - [ ] Using TypeScript
 - [ ] React Developer Tools
 
-#### Describing the UI
+### Describing the UI
 - [ ] Your First Component
 - [ ] Importing and Exporting Components
 - [ ] Writing Markup with JSX
@@ -164,7 +162,7 @@
 - [ ] Keeping Components Pure
 - [ ] Your UI as a Tree
 
-#### Adding Interactivity
+### Adding Interactivity
 - [ ] Responding to Events
 - [ ] State: A Component's Memory
 - [ ] Render and Commit
@@ -173,7 +171,7 @@
 - [ ] Updating Objects in State
 - [ ] Updating Arrays in State
 
-#### Managing State
+### Managing State
 - [ ] Reacting to Input with State
 - [ ] Choosing the State Structure
 - [ ] Sharing State Between Components
@@ -182,7 +180,7 @@
 - [ ] Passing Data Deeply with Context
 - [ ] Scaling Up with Reducer and Context
 
-#### Escape Hatches
+### Escape Hatches
 - [ ] Referencing Values with Refs
 - [ ] Manipulating the DOM with Refs
 - [ ] Synchronizing with Effects
@@ -191,5 +189,3 @@
 - [ ] Separating Events from Effects
 - [ ] Removing Effect Dependencies
 - [ ] Reusing Logic with Custom Hooks
-
-[Git Version Control](https://git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F)
